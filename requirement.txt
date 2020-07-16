@@ -1,0 +1,23 @@
+
+
+flask
+flask-login
+flask-openid
+flask-mail
+flask-sqlalchemy
+flask-migrate
+flask-whooshalchemy
+flask-wtf
+flask-babel
+guess_language
+flipflop
+coverage
+python-dotenv
+email-validator
+
+
+
+run "FLASK_APP=admin.py"
+run "flask run"
+
+use localhost:5000 
